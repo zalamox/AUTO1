@@ -27,7 +27,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client.login("")
+client.login("MTEwMDA4MDI0MDMxMjcyMTQ4MQ.GhsXJW.u2vIkA8iGY290GY9WFptgLR-sq_E7ZkCAqTi-w")
 
 const client2 = new Discord.Client({ checkUpdate: false });
 new userAccount(client2, Discord).autoReaction({
@@ -38,7 +38,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client2.login("")
+client2.login("MTEwMzc5MDM5NzAyMjU1MjIxNg.GXYNR7._KGhpdGugKhaLR7Q9ZKYAXTadgoTRTl1fx8ATo")
 
 const client3 = new Discord.Client({ checkUpdate: false });
 new userAccount(client3, Discord).autoReaction({
@@ -49,7 +49,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client3.login("")
+client3.login("MTEwNDEyNDkyODU3MzMwOTAxOA.G_d8BN.PlAVakp6RE_Mc9mlxaczgpbW9eeVpZzwsDA8bw")
 
 const client4 = new Discord.Client({ checkUpdate: false });
 new userAccount(client4, Discord).autoReaction({
@@ -60,7 +60,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client4.login("")
+client4.login("MTEwMzc4OTk5OTM2ODk3NDM2Nw.GMwTMo.SS_e4wgyoJDkBbN2wuazcxenrXLXxamgukew1Y")
 
 const client5 = new Discord.Client({ checkUpdate: false });
 new userAccount(client5, Discord).autoReaction({
@@ -71,7 +71,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client5.login("")
+client5.login("MTEwMzc5MTIwNjY0NDg1MDc4OQ.GwKWib.h5qYAhwgu6vNJatewWuAVSXD1XTc6Yx6ELAz24")
 
 //////////
 const client6 = new Discord.Client({ checkUpdate: false });
@@ -83,7 +83,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client6.login("")
+client6.login("MTEwMzY1MDIyOTgxNjkyNjI4OA.GPg3ut.vr9ikG2VwPyjbbavLAnPvXTmwSzc2uUTa-hw5Q")
 
 const client7 = new Discord.Client({ checkUpdate: false });
 new userAccount(client7, Discord).autoReaction({
@@ -94,7 +94,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client7.login("")
+client7.login("ODUzMzE4NDU3NjcyMzM1Mzcw.GCkTk8.OjgKwiMl_grr4iYQPxCOS-NsSd9ycpOUa7M0Rs")
 
 const client8 = new Discord.Client({ checkUpdate: false });
 new userAccount(client8, Discord).autoReaction({
@@ -105,7 +105,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client8.login("")
+client8.login("MTEwMDA4MjkyODc0ODMzOTM2MQ.GTosZn.M5zjkImMQ9QJYlesQ_8x4auFY-fsT0Fmw_R3bI")
 
 const client9 = new Discord.Client({ checkUpdate: false });
 new userAccount(client9, Discord).autoReaction({
@@ -116,7 +116,7 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client9.login("")
+client9.login("MTEwMzc5MDgyMjM3OTUwNzgyNA.GQwsD0.ID9lpGyomdiKfIQ8aRhxIcYvXi7y3i-1T91brI")
 
 const client10 = new Discord.Client({ checkUpdate: false });
 new userAccount(client10, Discord).autoReaction({
@@ -127,28 +127,6 @@ customBotId: ['894633316010066032','824119071556763668','294882584201003009','96
 blacklistedwords: ["tokens", "auto"]
 })
 
-client10.login("")
+client10.login("MTEwMDA4MjEwMjE2MDA3Njg5MQ.Gt73dW.LaNbMMJnrAJQFo6hXYwy4XDha8PJqJMTdsW4fE")
 
 //////////
-
-const client11 = new Discord.Client({ checkUpdate: false });
-new userAccount(client11, Discord).autoReaction({
-channel: "1195775837056802866",
-user: "1087310777716854825",
-timeout: 1000,
-customBotId: ['894633316010066032','824119071556763668','294882584201003009','967924435803840512','894633316010066032','1192060869589352458'],
-blacklistedwords: ["tokens", "auto"]
-})
-
-client11.login("")
-
-const client12 = new Discord.Client({ checkUpdate: false });
-new userAccount(client12, Discord).autoReaction({
-channel: "1195775837056802866",
-user: "1087310777716854825",
-timeout: 1000,
-customBotId: ['894633316010066032','824119071556763668','294882584201003009','967924435803840512','894633316010066032','1192060869589352458'],
-blacklistedwords: ["tokens", "auto"]
-})
-
-client12.login("")
